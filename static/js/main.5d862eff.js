@@ -11741,7 +11741,7 @@
                         }),
                       }),
                       (0, en.jsx)(yn, {
-                        href: "LINKDEAFILIADOAQUI",
+                        href: "https://sortepix77.online/register?code=VHY779008R",
                         children: (0, en.jsxs)("div", {
                           children: [
                             (0, en.jsx)("span", {
@@ -11752,7 +11752,7 @@
                         }),
                       }),
                       (0, en.jsx)(yn, {
-                        href: "LINKDEAFILIADOAQUI",
+                        href: "https://sortepix77.online/register?code=VHY779008R",
                         children: (0, en.jsxs)("div", {
                           children: [
                             (0, en.jsx)("span", {
@@ -11770,7 +11770,7 @@
                     }),
                   }),
                   (0, en.jsx)("a", {
-                    href: "LINKDEAFILIADOAQUI",
+                    href: "https://sortepix77.online/register?code=VHY779008R",
                     children: (0, en.jsx)(_n, {
                       src: "https://imagedelivery.net/lfSRFuvEHojPT-iMbdh4pw/d294ec32-884f-4c8c-e77e-039c7d5e9700/public",
                     }),
