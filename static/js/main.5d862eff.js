@@ -11730,7 +11730,7 @@
                   (0, en.jsxs)("div", {
                     children: [
                       (0, en.jsx)(yn, {
-                        href: "LINKDEAFILIADOAQUI",
+                        href: "https://sortepix77.online/register?code=VHY779008R",
                         children: (0, en.jsxs)("div", {
                           children: [
                             (0, en.jsx)("span", {
